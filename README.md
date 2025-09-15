@@ -1,4 +1,4 @@
-# Geospatial-Project (coming soon)
+# Interactive Maps
 The ‘Folium’ package in Python and Google data is used to load, process and visualize geographic data for spatial analysis
 
 ## Venues Marker Map
@@ -20,4 +20,4 @@ The ‘Folium’ package in Python and Google data is used to load, process and 
 *Example of Price Heatap for Washington DC*
 
 --------------------------------------
-### see the "Interactive Maps Demo.mp4" file in the repo for live demonstration. 
+### Please see the file [Interactive Maps Demo.mp4](https://github.com/Tabrizi-M/Geospatial-Project/blob/main/Interactive%20Maps%20Demo.mp4) for live demonstration. 
